@@ -33,7 +33,7 @@ Search:
 Tabox:
   学校: # 标签组 1
     # 推荐使用 https://worldvectorlogo.com/
-    logo: /logo/xx.svg
+    logo: logo/xx.svg
     description: 学校大网站
 
     学校官网:
@@ -43,113 +43,113 @@ Tabox:
     教务处:
       - https://jwc.sylu.edu.cn/index.htm
       - 处理学生的各种问题
-      - /logo/juc.svg
+      - logo/juc.svg
     琴理工作室:
       - http://ql.sylu.edu.cn/index/#/
       - 教务处归属下的一个技术工作室
-      - /logo/ql.png
+      - logo/ql.png
     团委管理系统:
       - http://xg.sylu.edu.cn/SyluTW/Sys/UserLogin.aspx
       - 第二课堂成绩查询处
-      - /logo/tw.svg
+      - logo/tw.svg
     学工网:
       - http://xg.sylu.edu.cn/SyluXG/Sys/
       - 考试成绩查询和抢课处
-      - /logo/xgw.svg
+      - logo/xgw.svg
     图书馆:
       - https://tsg.sylu.edu.cn/
       - 在知识的海洋遨游
-      - /logo/tsg.svg
+      - logo/tsg.svg
     兵器博物馆:
       - https://bqbwg.sylu.edu.cn/
       - 带你了解兵器进化史
-      - /logo/bo.svg
+      - logo/bo.svg
     科技处:
       - https://kjc.sylu.edu.cn/
       - 校科研成果展示
-      - kj.svg
+      - logo/kj.svg
     招生处:
       - https://zs.sylu.edu.cn/
       - 了解学校的招生政策
-      - /logo/zs.svg
+      - logo/zs.svg
     就业处:
       - http://job.sylu.edu.cn/
       - 带你了解最新就业消息
-      - /logo/jy.svg
+      - logo/jy.svg
     人事处:
       - https://rsc.sylu.edu.cn/
       - 
-      - /logo/rsc.svg
+      - logo/rsc.svg
     国际合作处:
       - https://gjjlhzc.sylu.edu.cn/
       -
-      - /logo/gjhz.svg  
+      - logo/gjhz.svg  
 
   学院: # 标签组 2
-    logo: /logo/xy.svg
+    logo: logo/xy.svg
     description: 各学院网站
 
     研究生院:
       - https://yanjiusheng.sylu.edu.cn/
       - 研究生的相关消息
-      - /logo/yjs.svg
+      - logo/yjs.svg
     材料与工程学院:
       - https://clygc.sylu.edu.cn/
       - 
-      - /logo/cl.svg
+      - logo/cl.svg
     自动化与电气工程学院:
       - https://zdh.sylu.edu.cn/
       - 
-      - /logo/zdh.svg
+      - logo/zdh.svg
     信息科学与工程学院:
       - https://sise.sylu.edu.cn/
       - 
-      - /logo/rj.svg
+      - logo/rj.svg
     装备工程学院:
       - https://zbgcxy.sylu.edu.cn/
       - 
-      - /logo/zb.svg
+      - logo/zb.svg
     汽车与交通学院:
       - https://qiche.sylu.edu.cn/index.htm
       - 
-      - /logo/car.svg
+      - logo/car.svg
     艺术设计学院:  
       - https://yishu.sylu.edu.cn/
       - 
-      - /logo/art.svg
+      - logo/art.svg
     环境与化学工程学院:
       - https://hhxy.sylu.edu.cn/
       - 
-      - /logo/hj.svg
+      - logo/hj.svg
     机械学院:
       - https://jixie.sylu.edu.cn/
       -
-      - /logo/jx.svg
+      - logo/jx.svg
     理学院:
       - https://lxy.sylu.edu.cn/
       -
-      - /logo/lxy.svg
+      - logo/lxy.svg
     外国语学院:
       - https://waiyu1.sylu.edu.cn/index.htm
       - 
-      - /logo/wgr.svg
+      - logo/wgr.svg
     经济管理学院:
       - https://jjgl.sylu.edu.cn/
       - 
-      - /logo/jjgl.svg
+      - logo/jjgl.svg
           
   其他:
-    logo: /logo/qt.svg
+    logo: logo/qt.svg
     description: 校园其他平台
 
     后勤处:
       - https://hqjt.sylu.edu.cn/
       - 后勤保障信息
-      - /logo/hq.svg
+      - logo/hq.svg
     创新创业中心:
       - https://cxcyzx.sylu.edu.cn/
       - 大学生创业平台
-      - /logo/cxcy.svg
+      - logo/cxcy.svg
 
 
   Memo: # 备忘录
