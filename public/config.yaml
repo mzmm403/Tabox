@@ -7,197 +7,150 @@ Config:
 
 # 搜索栏设置
 Search:
-  Normal: # 搜索组 1
-    Baidu: https://www.baidu.com/s?wd=
-    Google: https://www.google.com/search?q=
-    Bing: https://cn.bing.com/search?q=
-    Translate: https://translate.google.cn/?text=
-
-  Code:
-    Github: https://github.com/search?q=
-    Npm: https://www.npmjs.com/search?q=
-    DockerHub: https://hub.docker.com/search?q=
-    StackOF: https://stackoverflow.com/search?q=
-
-  Community:
-    Zhihu: https://www.zhihu.com/search?q=
-    Juejin: https://juejin.im/search?query=
-    Bilibili: https://search.bilibili.com/all?keyword=
-    CSDN: https://so.csdn.net/so/search?q=
-
-  Tools:
-    Greasyfork: https://greasyfork.org/zh-CN/scripts?q=
-    Choco: https://chocolatey.org/packages?q=
-
-  Art:
-    Iconfont: https://www.iconfont.cn/search?q=
-    Pexels: https://www.pexels.com/search/
+  🌌校级:
+    🏫校官网: https://www.sylu.edu.cn/
+    🧰教务处: https://jwc.sylu.edu.cn/index.htm
+    📕图书馆: https://tsg.sylu.edu.cn/
+    🔫兵器博物馆: https://bqbwg.sylu.edu.cn/
+    💻科技处: https://kjc.sylu.edu.cn/
+    ☎招生处: https://zs.sylu.edu.cn/
+    🎈就业处: http://job.sylu.edu.cn/
+  🌏院级:
+    🎓研究生院: https://yanjiusheng.sylu.edu.cn/
+    🧪材料学与工程: https://clygc.sylu.edu.cn/
+    🔩自动化与电器工程: https://zdh.sylu.edu.cn/
+    💾信息科学与工程: https://sise.sylu.edu.cn/
+    🛡装备工程: https://zbgcxy.sylu.edu.cn/
+    🚗汽车与交通: https://qiche.sylu.edu.cn/index.htm
+    🎨艺术设计: https://yishu.sylu.edu.cn/
+    ⚗环化: https://hhxy.sylu.edu.cn/
+    ⚙机械: https://jixie.sylu.edu.cn/
+    📃理学院: https://lxy.sylu.edu.cn/
+    🧔外国语: https://waiyu1.sylu.edu.cn/index.htm
+    🏦经济管理: https://jjgl.sylu.edu.cn/
 
 # 标签组
 Tabox:
-  Common: # 标签组 1
+  学校: # 标签组 1
     # 推荐使用 https://worldvectorlogo.com/
-    logo: https://cdn.worldvectorlogo.com/logos/onenote-2.svg
-    description: 常用网站
+    logo: /logo/xx.svg
+    description: 学校大网站
 
-    BiliBili:
-      - https://www.bilibili.com
-      - 年轻人的社区
-      # 默认获取 https://www.bilibili.com/favicon.ico
-    Wolai:
-      - https://www.wolai.com/
-      - 云端笔记平台
-      - https://cdn.worldvectorlogo.com/logos/notion-2.svg
-    Zhihu:
-      - https://www.zhihu.com
-      - 问答社区
-    Wiki:
-      - https://baike.baidu.com/
-      - 维基百科
-      - https://static.cdnlogo.com/logos/w/74/wikipedia.svg
-    Douban:
-      - https://www.douban.com
-      - 豆瓣网
-    Weibo:
-      - https://www.weibo.com
-      - 微博
-    Tieba:
-      - https://tieba.baidu.com
-      - 百度贴吧
-      - https://tb3.bdstatic.com/public/icon/favicon-v2.ico
-    Amap:
-      - https://ditu.amap.com/
-      - 高德地图
-    Taobao:
-      - https://www.taobao.com
-      - 掏包网
+    学校官网:
+      - https://www.sylu.edu.cn/
+      - 沈阳理工大学官网，梦开始的地方
+      - https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180823%2F9fa2ddd80ade45e4919cfa0296815abd.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655282889&t=fa1491f6cdf3751a5883a262982c1f5a
+    教务处:
+      - https://jwc.sylu.edu.cn/index.htm
+      - 处理学生的各种问题
+      - /logo/juc.svg
+    琴理工作室:
+      - http://ql.sylu.edu.cn/index/#/
+      - 教务处归属下的一个技术工作室
+      - /logo/ql.png
+    团委管理系统:
+      - http://xg.sylu.edu.cn/SyluTW/Sys/UserLogin.aspx
+      - 第二课堂成绩查询处
+      - /logo/tw.svg
+    学工网:
+      - http://xg.sylu.edu.cn/SyluXG/Sys/
+      - 考试成绩查询和抢课处
+      - /logo/xgw.svg
+    图书馆:
+      - https://tsg.sylu.edu.cn/
+      - 在知识的海洋遨游
+      - /logo/tsg.svg
+    兵器博物馆:
+      - https://bqbwg.sylu.edu.cn/
+      - 带你了解兵器进化史
+      - /logo/bo.svg
+    科技处:
+      - https://kjc.sylu.edu.cn/
+      - 校科研成果展示
+      - kj.svg
+    招生处:
+      - https://zs.sylu.edu.cn/
+      - 了解学校的招生政策
+      - /logo/zs.svg
+    就业处:
+      - http://job.sylu.edu.cn/
+      - 带你了解最新就业消息
+      - /logo/jy.svg
+    人事处:
+      - https://rsc.sylu.edu.cn/
+      - 
+      - /logo/rsc.svg
+    国际合作处:
+      - https://gjjlhzc.sylu.edu.cn/
+      -
+      - /logo/gjhz.svg  
 
-  Website: # 标签组 2
-    logo: https://cdn.worldvectorlogo.com/logos/microsoft-access-1.svg
-    description: 我的网站
+  学院: # 标签组 2
+    logo: /logo/xy.svg
+    description: 各学院网站
 
-    Home:
-      - https://www.fzf404.top
-      - 我的首页
-      - https://s2.loli.net/2022/04/25/yns7EGBSRTJjiHa.png
-    Note:
-      - https://note.fzf404.top
-      - 笔记博客
-      - https://s2.loli.net/2022/04/25/yns7EGBSRTJjiHa.png
-    Blog:
-      - https://blog.fzf404.top
+    研究生院:
+      - https://yanjiusheng.sylu.edu.cn/
+      - 研究生的相关消息
+      - /logo/yjs.svg
+    材料与工程学院:
+      - https://clygc.sylu.edu.cn/
+      - 
+      - /logo/cl.svg
+    自动化与电气工程学院:
+      - https://zdh.sylu.edu.cn/
       - 写作博客
-      - https://s2.loli.net/2022/04/25/yns7EGBSRTJjiHa.png
-    Share:
-      - https://share.fzf404.top
+      - /logo/zdh.svg
+    信息科学与工程学院:
+      - https://sise.sylu.edu.cn/
       - 教案分享
-      - https://s2.loli.net/2022/04/25/yns7EGBSRTJjiHa.png
-    Tabox:
-      - https://tab.fzf404.top
+      - /logo/rj.svg
+    装备工程学院:
+      - https://zbgcxy.sylu.edu.cn/
       - 标签页
-      - https://s2.loli.net/2022/04/25/yns7EGBSRTJjiHa.png
+      - /logo/zb.svg
+    汽车与交通学院:
+      - https://qiche.sylu.edu.cn/index.htm
+      - 
+      - /logo/car.svg
+    艺术设计学院:  
+      - https://yishu.sylu.edu.cn/
+      - 
+      - /logo/art.svg
+    环境与化学工程学院:
+      - https://hhxy.sylu.edu.cn/
+      - 
+      - /logo/hj.svg
+    机械学院:
+      - https://jixie.sylu.edu.cn/
+      -
+      - /logo/jx.svg
+    理学院:
+      - https://lxy.sylu.edu.cn/
+      -
+      - /logo/lxy.svg
+    外国语学院:
+      - https://waiyu1.sylu.edu.cn/index.htm
+      - 
+      - /logo/wgr.svg
+    经济管理学院:
+      - https://jjgl.sylu.edu.cn/
+      - 
+      - /logo/jjgl.svg
+          
+  其他:
+    logo: /logo/qt.svg
+    description: 校园其他平台
 
-  Github: # github 配置
-    logo: https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg
-    description: 我的代码仓库
+    后勤处:
+      - https://hqjt.sylu.edu.cn/
+      - 后勤保障信息
+      - /logo/hq.svg
+    创新创业中心:
+      - https://cxcyzx.sylu.edu.cn/
+      - 大学生创业平台
+      - /logo/cxcy.svg
 
-    name: fzf404 # 写入自己的用户名
-
-    # 忽略的仓库
-    Ignore:
-      - BPY
-      - blog-comment
-      - DjangoTemp
-      - ExpressTemp
-      - fzf404
-      - rdt-editor
-      - demo
-      - intro
-      - tools
-
-  Develop:
-    logo: https://cdn.worldvectorlogo.com/logos/excel-4.svg
-    description: 开发社区
-
-    Github:
-      - https://github.com
-      - 全球程序员社区
-    Gitee:
-      - https://gitee.com
-      - 国内开源社区
-    Coding:
-      - https://coding.net
-      - 企业代码平台
-      - https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico
-    Npm:
-      - https://www.npmjs.com
-      - npm 包管理
-      - https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png
-    Docker:
-      - https://hub.docker.com
-      - Docker hub
-    Leetcode:
-      - https://leetcode.com
-      - 算法..可恶...
-    Juejin:
-      - https://juejin.cn
-      - 掘金社区
-    V2ex:
-      - https://www.v2ex.com
-      - 程序员的贴吧
-    52Pojie:
-      - https://www.52pojie.cn
-      - 吾爱破解
-    CSDN:
-      - https://www.csdn.net
-      - 开源社区破坏者
-
-  Tools:
-    logo: https://cdn.worldvectorlogo.com/logos/outlook-1.svg
-    description: 开发工具
-
-    Tencent:
-      - https://mirrors.cloud.tencent.com
-      - 腾讯镜像源
-      - https://cloud.tencent.com/favicon.ico
-    Colab:
-      - https://colab.research.google.com
-      - 免费云计算
-      - https://static.cdnlogo.com/logos/p/3/python.svg
-    EDA:
-      - https://lceda.cn/editor
-      - 立创 EDA
-    MSDN:
-      - https://msdn.itellyou.cn
-      - 操作系统镜像
-
-  Docs:
-    logo: https://cdn.worldvectorlogo.com/logos/word-1.svg
-    description: 开发文档
-
-    Runoob:
-      - https://www.runoob.com
-      - 菜鸟教程
-    MDN:
-      - https://developer.mozilla.org
-      - MDN 文档
-    Vue:
-      - https://cn.vuejs.org
-      - Vue 文档
-      - https://cn.vuejs.org/images/logo.svg
-    Antd:
-      - https://ant.design
-      - 开发文档
-      - https://gw.alipayobjects.com/zos/antfincdn/UmVnt3t4T0/antd.png
-    Element:
-      - https://element.eleme.cn
-      - 开发文档
-    MicroSoft:
-      - https://docs.microsoft.com
-      - 微软学习文档
-    Yuque:
-      - https://www.yuque.com
-      - 好用的文档库
 
   Memo: # 备忘录
     logo: https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg
